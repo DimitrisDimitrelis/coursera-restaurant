@@ -111,7 +111,7 @@ body {
 }
 
 #menu-tile {
-  background: url('../images/menu-tile.jpg') no-repeat;
+  background: url('.././images/menu-tile.jpg') no-repeat;
   background-position: center;
 }
 
